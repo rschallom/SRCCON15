@@ -17,6 +17,6 @@ Tools that we use…
 	SauceLabs
 	HrefShare
 	https://developers.facebook.com/tools/debug/ 
-	Grunt! http://24ways.org/2013/grunt-is-not-weird-and-hard/ 
+	Grunt! http://24ways.org/2013/grunt-is-not-weird-and-hard/
 
 
