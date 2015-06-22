@@ -20,10 +20,10 @@ RESOURCES WE RECCOMMEND
 
 GOOD READS
 * basically everything Elizabeth Grace Saunders has written for HBR but especially these
-* * https://hbr.org/2015/02/a-formula-to-stop-you-from-overcommitting-your-time
-* * https://hbr.org/2015/01/accomplish-more-by-committing-to-less
-* * https://hbr.org/2013/07/make-time-for-growth-assignments-in-your-daily-work
-* * https://hbr.org/2013/01/how-to-allocate-your-time-and (your effort)
+  * https://hbr.org/2015/02/a-formula-to-stop-you-from-overcommitting-your-time
+  * https://hbr.org/2015/01/accomplish-more-by-committing-to-less
+  * https://hbr.org/2013/07/make-time-for-growth-assignments-in-your-daily-work
+  * https://hbr.org/2013/01/how-to-allocate-your-time-and (your effort)
 * How to Be Assertive Without Losing Yourself: https://hbr.org/2012/08/how-to-be-assertive-without-lo.html
 * Working With Data at A Small Newsroom (PublicSource): http://publicsource.org/from-the-source/working-with-data-small-newsroom#.VXsYEVVVhBe
 * 15 Workplace Skills Every Woman Should Master (but it works for all genders): http://www.refinery29.com/how-to-be-more-assertive-at-work?crlt.pid=camp.hiorHzmnh1vR#slide 
