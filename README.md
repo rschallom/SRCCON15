@@ -12,8 +12,8 @@ QUESTIONS WE WANT TO EXPLORE
 
 RESOURCES WE RECCOMMEND
 Tools that we use… 
-	http://yourbrowser.is/
-	WebPageTest
+    http://yourbrowser.is/
+    WebPageTest
 	SauceLabs
 	HrefShare
 	https://developers.facebook.com/tools/debug/ 
