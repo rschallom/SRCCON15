@@ -1,7 +1,7 @@
 # SRCCON15
 Here are the session notes from: Big Ambition, Small Staff, How the F*** Do I Prioritize?
 
-QUESTIONS WE WANT TO EXPLORE
+**QUESTIONS WE WANT TO EXPLORE**
 * How do we communicate with others who don’t share our jargon? 
 * How do we temper editors expectations?
 * How do we choose the best ideas?
@@ -10,7 +10,7 @@ QUESTIONS WE WANT TO EXPLORE
 * How can you make it easier on yourself?
 * What are strategies to keep learning? 
 
-RESOURCES WE RECCOMMEND
+**RESOURCES WE RECCOMMEND**
 * http://yourbrowser.is/
 * WebPageTest
 * SauceLabs
@@ -18,8 +18,8 @@ RESOURCES WE RECCOMMEND
 * https://developers.facebook.com/tools/debug/ 
 * Grunt! http://24ways.org/2013/grunt-is-not-weird-and-hard/
 
-GOOD READS
-* basically everything Elizabeth Grace Saunders has written for HBR but especially these
+**GOOD READS**
+* Basically everything Elizabeth Grace Saunders has written for HBR but especially these
   * https://hbr.org/2015/02/a-formula-to-stop-you-from-overcommitting-your-time
   * https://hbr.org/2015/01/accomplish-more-by-committing-to-less
   * https://hbr.org/2013/07/make-time-for-growth-assignments-in-your-daily-work
