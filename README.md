@@ -2,8 +2,9 @@
 Here are the session notes from: Big Ambition, Small Staff, How the F*** Do I Prioritize?
 
 QUESTIONS WE WANT TO EXPLORE
-	How do we communicate with others who don’t share our jargon? 
-	How do we temper editors expectations? 
+How do we communicate with others who don’t share our jargon? 
+
+How do we temper editors expectations? 
 	How do we choose the best ideas? 
 	How do we say no without killing enthusiasm? 
 	How do you keep yourself on track? 
