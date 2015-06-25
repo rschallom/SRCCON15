@@ -17,6 +17,7 @@ Here are the session notes from: Big Ambition, Small Staff, How the F*** Do I Pr
 * HrefShare
 * https://developers.facebook.com/tools/debug/ 
 * Grunt! http://24ways.org/2013/grunt-is-not-weird-and-hard/
+* Here is a [sample work breakdown statement](work breakdown statement.pdf) from HBR's "20 Minute Manager: Managing Projects" book
 
 **GOOD READS**
 * Basically everything Elizabeth Grace Saunders has written for HBR but especially these
