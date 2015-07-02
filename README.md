@@ -10,6 +10,9 @@ Here are the session notes from: Big Ambition, Small Staff, How the F*** Do I Pr
 * How can you make it easier on yourself?
 * What are strategies to keep learning? 
 
+**TRANSCRIPT**
+* [A full transcript of the session is available here.](https://github.com/OpenNews/srccon-data/blob/master/2015/transcripts/SRCCON2015SmallTeam.txt)
+
 **RESOURCES WE RECCOMMEND**
 * http://yourbrowser.is/
 * WebPageTest
